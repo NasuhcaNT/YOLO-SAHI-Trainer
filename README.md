@@ -1,6 +1,6 @@
 # YOLO-SAHI-Trainer
 
-![YOLO-SAHI-Trainer](example_image.png)
+![YOLO-SAHI-Trainer](example_img.png)
 
 An end-to-end YOLO training pipeline with automated annotation-aware cropping, dataset preparation, and integrated SAHI inference for robust small object detection in high-resolution images.
 
