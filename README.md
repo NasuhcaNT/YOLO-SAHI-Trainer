@@ -1,4 +1,5 @@
 # YOLO-SAHI-Trainer
+![App Screenshot](assets/example_img.png)
 An end-to-end YOLO training pipeline with automated annotation-aware cropping, dataset preparation, and integrated SAHI inference for robust small object detection in high-resolution images.
 
 Here is a professional, high-quality README.md file written in English, specifically tailored to the technical summary you provided.
