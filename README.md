@@ -26,7 +26,7 @@ NanoDetect Suite overcomes this by providing a professional-grade GUI to manage 
 Clone the Repository:
 
 Bash
-git clone https://github.com/yourusername/NanoDetect-Suite.git
+git clone https://github.com/yourusername/YOLO-SAHI-Trainer.git
 cd NanoDetect-Suite
 Install Dependencies:
 
