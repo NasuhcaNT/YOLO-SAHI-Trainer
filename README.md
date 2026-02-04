@@ -51,12 +51,12 @@ Execute: Click the green "START PIPELINE" button. The system will handle everyth
 📂 Repository Structure
 Plaintext
 NanoDetect-Suite/
-├── main_gui.py          # Central GUI management console
-├── 1_crop_data.py       # Smart annotation-aware slicing logic
-├── 1.5_create_yaml.py   # Dynamic YOLO configuration generator
-├── 2_split_data.py      # Automated dataset distributor (Train/Val)
-├── 3_Model_Train.py     # YOLOv8 core training engine
-└── 4_SAHI_Inference.py  # Advanced inference script for small objects
+/├── main_gui.py          # Central GUI management console
+/├── 1_crop_data.py       # Smart annotation-aware slicing logic
+/├── 1.5_create_yaml.py   # Dynamic YOLO configuration generator
+/├── 2_split_data.py      # Automated dataset distributor (Train/Val)
+/├── 3_Model_Train.py     # YOLOv8 core training engine
+/└── 4_SAHI_Inference.py  # Advanced inference script for small objects
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
