@@ -1,0 +1,5 @@
+ultralytics
+sahi
+PyQt6
+pyyaml
+opencv-python
