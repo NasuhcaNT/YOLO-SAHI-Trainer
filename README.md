@@ -6,13 +6,13 @@ An end-to-end YOLO training pipeline with automated annotation-aware cropping, d
 
 Here is a professional, high-quality README.md file written in English, specifically tailored to the technical summary you provided.
 
-🚀 NanoDetect Suite
+🚀 YOLO-SAHI-Trainer
 An end-to-end YOLOv8 training pipeline with automated annotation-aware cropping, dataset preparation, and integrated SAHI inference for robust small object detection in high-resolution images.
 
 📌 Overview
 Detecting small objects in high-resolution imagery (e.g., drone footage, 4K security feeds, medical imaging) is a major challenge for standard object detection models. When high-res images are downscaled to fit YOLO inputs, critical pixel information for small objects is lost.
 
-NanoDetect Suite overcomes this by providing a professional-grade GUI to manage an automated pipeline that intelligently slices high-resolution data while preserving annotations, training the model, and utilizing SAHI (Slicing Aided Hyper Inference) for maximum detection accuracy.
+YOLO-SAHI-Trainer overcomes this by providing a professional-grade GUI to manage an automated pipeline that intelligently slices high-resolution data while preserving annotations, training the model, and utilizing SAHI (Slicing Aided Hyper Inference) for maximum detection accuracy.
 
 ✨ Key Features
 🎯 Annotation-Aware Cropping: Intelligently slices large images into smaller tiles while ensuring labels are correctly mapped and small objects are preserved at their original scale.
@@ -29,8 +29,8 @@ NanoDetect Suite overcomes this by providing a professional-grade GUI to manage 
 Clone the Repository:
 
 Bash
-git clone https://github.com/yourusername/YOLO-SAHI-Trainer.git
-cd NanoDetect-Suite
+git clone https://github.com/NasuhcaNT/YOLO-SAHI-Trainer
+cd YOLO-SAHI-Trainer
 Install Dependencies:
 
 Bash
@@ -53,7 +53,7 @@ Execute: Click the green "START PIPELINE" button. The system will handle everyth
 
 📂 Repository Structure
 Plaintext
-NanoDetect-Suite/
+YOLO-SAHI-Trainer/
 
 ├── main_gui.py          # Central GUI management console
 
